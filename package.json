@@ -1,0 +1,23 @@
+{
+  "name": "array-map-filter-reduce-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar-9015/array-map-filter-reduce-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar-9015/array-map-filter-reduce-2/issues"
+  },
+  "homepage": "https://github.com/tushar-9015/array-map-filter-reduce-2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
